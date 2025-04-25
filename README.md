@@ -54,7 +54,8 @@ ContactManager/
 │   │   ├── ContactManager.sln  # Solution file
 │   │   ├── Program.cs           # Application entry point
 │   └── ... (other files)
-├── Powerpoint Presentation.pdf  # Presentation slides for the project
+├── Powerpoint Presentation.pptx  # Presentation slides for the project
+├── Powerpoint Presentation.pdf  # Presentation slides for the project in pdf format
 └── README.md                  # This file
 ```
 
@@ -81,9 +82,9 @@ ContactManager/
 ##  Important Notes
 
 * The application implements security best practices, including authentication and role-based access control.
-* The "Powerpoint Presentation.pdf" document provides additional context and details about the project's goals and implementation.
+* The `Powerpoint Presentation` document provides additional context and details about the project's goals and implementation.
 
-##  Security Considerations (From "Powerpoint Presentation.pdf")
+##  Security Considerations (From "Powerpoint Presentation")
 
 The "Powerpoint Presentation.pdf" document also discusses broader security considerations for data transfer and API security:
 
