@@ -33,7 +33,8 @@ The application allows users to create and manage contact information. Access to
 
 The repository has the following structure:
 
-'''ContactManager/
+```
+ContactManager/
 ├── final6/                     # Contains the ASP.NET Core web application project.
 │   ├── .vs/                    # Visual Studio solution settings (not essential for building)
 │   ├── ContactManager/         # The main ASP.NET Core project directory
@@ -54,7 +55,8 @@ The repository has the following structure:
 │   │   ├── Program.cs           # Application entry point
 │   └── ... (other files)
 ├── Powerpoint Presentation.pdf  # Presentation slides for the project
-└── README.md                  # This file'''
+└── README.md                  # This file
+```
 
 ## Setup Instructions
 
